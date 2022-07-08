@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, robotics, computer vision, deep learning and ofcourse psy trance :)
 - 🌱 I’m currently learning a lot of stuff.
 - 💞️ I’m looking to collaborate on any of my topics of interests
-- 📫 How to reach me mkpisk@gmail.com
+- 📫 How to reach me mkpisk@protonmail.com
 
 <!---
 mkpisk/mkpisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
